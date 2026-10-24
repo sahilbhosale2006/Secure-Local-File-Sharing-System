@@ -8,3 +8,5 @@ __pycache__/
 .vscode/
 .DS_Store
 "@ | Set-Content .gitignore
+__MACOSX/
+.DS_Store
