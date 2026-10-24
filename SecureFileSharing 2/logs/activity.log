@@ -1,0 +1,47 @@
+[2026-10-02 14:14:39] Client connected: ('127.0.0.1', 49916)
+[2026-10-02 14:14:49] Login successful: shavari
+[2026-10-02 14:14:49] File uploaded by shavari: sample.txt
+[2026-10-02 14:14:49] SHA-256 calculated for sample.txt: 1491cf57644e7fa097e368b8833ff84f42d5964bb102d48dce1d1f99da82a3d7
+[2026-10-02 14:27:29] Client connected: ('127.0.0.1', 50120)
+[2026-10-02 14:27:40] Login successful: shavari
+[2026-10-02 14:27:40] Download requested by shavari
+[2026-10-02 14:27:40] File downloaded by shavari: sample.txt
+[2026-10-02 14:29:10] Client connected: ('127.0.0.1', 50121)
+[2026-10-02 14:29:26] Login failed: shavari
+[2026-10-02 14:29:57] Client connected: ('127.0.0.1', 50122)
+[2026-10-02 14:30:08] Login successful: shavari
+[2026-10-02 14:30:08] Download requested by shavari
+[2026-10-02 14:30:08] File downloaded by shavari: sample.txt
+[2026-10-02 14:31:39] Client connected: ('127.0.0.1', 50150)
+[2026-10-02 14:31:49] Login successful: shavari
+[2026-10-02 14:31:49] Download requested by shavari
+[2026-10-02 14:31:49] File not found: does_not_exist.txt
+[2026-10-02 18:54:23] Client connected: ('127.0.0.1', 50471)
+[2026-10-02 18:54:23] Login failed: 
+[2026-10-02 18:56:42] Client connected: ('127.0.0.1', 50481)
+[2026-10-02 18:57:10] Login successful: shavari
+[2026-10-02 19:02:00] Client connected: ('127.0.0.1', 50493)
+[2026-10-02 19:02:10] Login successful: shavari
+[2026-10-02 19:02:25] File uploaded by shavari: sample.txt
+[2026-10-02 19:02:25] SHA-256 calculated for sample.txt: 1491cf57644e7fa097e368b8833ff84f42d5964bb102d48dce1d1f99da82a3d7
+[2026-10-02 19:09:14] Client connected: ('127.0.0.1', 50546)
+[2026-10-02 19:09:29] Login successful: shavari
+[2026-10-02 19:09:47] Client connected: ('127.0.0.1', 50548)
+[2026-10-02 19:10:05] Login successful: shavari
+[2026-10-02 19:10:17] Download requested by shavari
+[2026-10-02 19:10:17] File downloaded by shavari: sample.txt
+[2026-10-02 19:14:20] Client connected: ('127.0.0.1', 50550)
+[2026-10-02 19:14:56] Client connected: ('127.0.0.1', 50552)
+[2026-10-02 19:15:02] Login successful: shavari
+[2026-10-02 19:15:11] Client connected: ('127.0.0.1', 50553)
+[2026-10-02 19:15:43] Login successful: shavari
+[2026-10-02 19:15:49] Download requested by shavari
+[2026-10-02 19:15:49] File downloaded by shavari: sample.txt
+[2026-10-02 19:16:28] Client connected: ('127.0.0.1', 50554)
+[2026-10-02 19:16:33] Login successful: shavari
+[2026-10-02 19:16:40] File uploaded by shavari: sample.txt
+[2026-10-02 19:16:40] SHA-256 calculated for sample.txt: 1491cf57644e7fa097e368b8833ff84f42d5964bb102d48dce1d1f99da82a3d7
+[2026-10-02 19:16:40] Client connected: ('127.0.0.1', 50555)
+[2026-10-02 19:17:48] Login successful: shavari
+[2026-10-02 19:18:07] Download requested by shavari
+[2026-10-02 19:18:07] File downloaded by shavari: sample.txt
